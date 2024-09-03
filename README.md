@@ -1,9 +1,3 @@
-<style>
-    body{
-        font-size: 15px;
-    }
-</style>
-
 # <span style="color: cyan">COMO PEGAR UMA PANELEIRA DE DISCORD</span>
 <p align="center">
   <img src="https://github.com/MatheusMrq/images-not-a-project/blob/main/g1.gif?raw=true" alt="Paneleira mediana">
